@@ -1,0 +1,279 @@
+{
+  "products": [
+    {
+      "id": "elec-001",
+      "category": "Electronics",
+      "name": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "price": 29990,
+      "rating": 4.8,
+      "stock": 42,
+      "description": "Industry-leading noise cancellation, 30-hour battery, multipoint Bluetooth.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "elec-002",
+      "category": "Electronics",
+      "name": "Apple MacBook Air M2",
+      "brand": "Apple",
+      "price": 114900,
+      "rating": 4.9,
+      "stock": 18,
+      "description": "13.6-inch Liquid Retina, M2 chip, fanless design, all-day battery.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "elec-003",
+      "category": "Electronics",
+      "name": "Samsung 55\" 4K QLED TV",
+      "brand": "Samsung",
+      "price": 72990,
+      "rating": 4.6,
+      "stock": 9,
+      "description": "Quantum Dot technology, 120Hz panel, Tizen Smart OS, built-in Alexa.",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "elec-004",
+      "category": "Electronics",
+      "name": "Canon EOS R50 Mirrorless",
+      "brand": "Canon",
+      "price": 62990,
+      "rating": 4.7,
+      "stock": 23,
+      "description": "24.2 MP APS-C sensor, 4K 30p video, Dual Pixel CMOS AF II.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "elec-005",
+      "category": "Electronics",
+      "name": "iPad Pro 11\" M2",
+      "brand": "Apple",
+      "price": 89900,
+      "rating": 4.8,
+      "stock": 31,
+      "description": "Liquid Retina display, M2 chip, ProMotion 120Hz, Apple Pencil 2 support.",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "clth-001",
+      "category": "Clothing",
+      "name": "Oversized Linen Blazer",
+      "brand": "Zara",
+      "price": 3499,
+      "rating": 4.5,
+      "stock": 60,
+      "description": "Premium linen-cotton blend, relaxed silhouette, notch lapel, two-button closure.",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "clth-002",
+      "category": "Clothing",
+      "name": "Classic White Oxford Shirt",
+      "brand": "Ralph Lauren",
+      "price": 4299,
+      "rating": 4.7,
+      "stock": 85,
+      "description": "100% Egyptian cotton, slim-fit, button-down collar, machine washable.",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "clth-003",
+      "category": "Clothing",
+      "name": "Floral Midi Dress",
+      "brand": "H&M",
+      "price": 1999,
+      "rating": 4.4,
+      "stock": 48,
+      "description": "Lightweight chiffon, V-neckline, elasticated waist, tropical print.",
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "clth-004",
+      "category": "Clothing",
+      "name": "Slim Fit Stretch Chinos",
+      "brand": "Uniqlo",
+      "price": 1799,
+      "rating": 4.6,
+      "stock": 120,
+      "description": "98% cotton 2% elastane, tapered leg, mid-rise waist, 6 colorways.",
+      "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "clth-005",
+      "category": "Clothing",
+      "name": "Merino Wool Turtleneck",
+      "brand": "Everlane",
+      "price": 5499,
+      "rating": 4.8,
+      "stock": 34,
+      "description": "Superfine 17.5µm merino, ribbed cuffs and hem, moisture-wicking, odour-resistant.",
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "furn-001",
+      "category": "Furniture",
+      "name": "Walnut Writing Desk",
+      "brand": "IKEA",
+      "price": 18900,
+      "rating": 4.6,
+      "stock": 14,
+      "description": "Solid walnut veneer, cable management tray, 140×70 cm, easy assembly.",
+      "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "furn-002",
+      "category": "Furniture",
+      "name": "Mid-Century Accent Chair",
+      "brand": "West Elm",
+      "price": 24500,
+      "rating": 4.7,
+      "stock": 7,
+      "description": "Velvet upholstery, solid oak legs, 360° swivel base, foam-padded seat.",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "furn-003",
+      "category": "Furniture",
+      "name": "5-Tier Open Bookshelf",
+      "brand": "Pottery Barn",
+      "price": 8990,
+      "rating": 4.5,
+      "stock": 22,
+      "description": "Steel frame, pine shelves, industrial style, holds up to 80 kg.",
+      "image": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "furn-004",
+      "category": "Furniture",
+      "name": "Cloud Sectional Sofa",
+      "brand": "Restoration Hardware",
+      "price": 67000,
+      "rating": 4.9,
+      "stock": 3,
+      "description": "Modular L-shape, performance fabric, deep-seat cushions, chaise included.",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "furn-005",
+      "category": "Furniture",
+      "name": "Japandi Platform Bed (Queen)",
+      "brand": "Article",
+      "price": 32000,
+      "rating": 4.7,
+      "stock": 11,
+      "description": "Natural oak veneer, low-profile slat base, no box spring needed, 160×200 cm.",
+      "image": "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "groc-001",
+      "category": "Grocery",
+      "name": "Organic Hass Avocados (6 pcs)",
+      "brand": "Nature's Best",
+      "price": 299,
+      "rating": 4.6,
+      "stock": 200,
+      "description": "Ripe-ready, USDA organic certified, sourced from Mexican farms.",
+      "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "groc-002",
+      "category": "Grocery",
+      "name": "Extra Virgin Olive Oil 1L",
+      "brand": "Borges",
+      "price": 799,
+      "rating": 4.7,
+      "stock": 150,
+      "description": "First cold-press, acidity < 0.3%, PDO certified from Andalusia, Spain.",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "groc-003",
+      "category": "Grocery",
+      "name": "Artisan Sourdough Loaf 700g",
+      "brand": "Baker's Craft",
+      "price": 189,
+      "rating": 4.8,
+      "stock": 60,
+      "description": "48-hour cold ferment, whole wheat & rye blend, thick crust.",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "groc-004",
+      "category": "Grocery",
+      "name": "Raw Himalayan Honey 500g",
+      "brand": "Dabur",
+      "price": 549,
+      "rating": 4.9,
+      "stock": 90,
+      "description": "Unfiltered multi-floral honey, high-altitude hives, no added sugar.",
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "groc-005",
+      "category": "Grocery",
+      "name": "Mixed Berry Frozen Pack 500g",
+      "brand": "Daily Harvest",
+      "price": 349,
+      "rating": 4.5,
+      "stock": 110,
+      "description": "Blueberry, strawberry & raspberry medley, IQF frozen, no added sugar.",
+      "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "shoe-001",
+      "category": "Shoes",
+      "name": "Nike Air Max 270",
+      "brand": "Nike",
+      "price": 10995,
+      "rating": 4.8,
+      "stock": 55,
+      "description": "270° Max Air heel unit, engineered mesh upper, foam midsole.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "shoe-002",
+      "category": "Shoes",
+      "name": "Leather Chelsea Boots",
+      "brand": "Thursday Boot Co.",
+      "price": 8499,
+      "rating": 4.7,
+      "stock": 38,
+      "description": "Full-grain leather, elastic side gussets, stacked heel, Goodyear welt.",
+      "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "shoe-003",
+      "category": "Shoes",
+      "name": "Adidas Ultraboost 22",
+      "brand": "Adidas",
+      "price": 13999,
+      "rating": 4.8,
+      "stock": 44,
+      "description": "Boost midsole, Primeknit+ upper, Continental rubber outsole, 11mm drop.",
+      "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "shoe-004",
+      "category": "Shoes",
+      "name": "Suede Platform Sneakers",
+      "brand": "New Balance",
+      "price": 6299,
+      "rating": 4.5,
+      "stock": 29,
+      "description": "Premium suede upper, 4cm retro platform sole, padded collar.",
+      "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=600&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "shoe-005",
+      "category": "Shoes",
+      "name": "Salomon XT-6 Trail Shoes",
+      "brand": "Salomon",
+      "price": 12499,
+      "rating": 4.9,
+      "stock": 17,
+      "description": "Contragrip® outsole, EVA midsole, Gore-Tex waterproof, 4mm drop.",
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80&auto=format&fit=crop"
+    }
+  ]
+}
