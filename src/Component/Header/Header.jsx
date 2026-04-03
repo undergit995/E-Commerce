@@ -12,10 +12,10 @@ export default function Header() {
   const navItems = [
     { id: "Dashboard",  path: "/dashboard",  icon: "⊞" },
     { id: "Products",   path: "/products",   icon: "◫" },
-    { id: "Purchases",  path: "/purchases",  icon: "◎" },
-    { id: "Customers",  path: "/customers",  icon: "◉" },
-    { id: "Analytics",  path: "/analytics",  icon: "▦" },
-    { id: "Settings",   path: "/settings",   icon: "✦" },
+    { id: "Purchases",  path: "/products",  icon: "◎" },
+    { id: "Customers",  path: "/products",  icon: "◉" },
+    { id: "Analytics",  path: "/products",  icon: "▦" },
+    { id: "Settings",   path: "/products",   icon: "✦" },
   ];
 
   const userName = "Aiden Crew";
@@ -53,7 +53,7 @@ export default function Header() {
     <aside
       className={`flex flex-col h-screen bg-gray-950 shadow-2xl border-r border-orange-500/20 transition-all duration-300 ${
         sideOpen ? 'w-52' : 'w-14'
-      } overflow-hidden flex-shrink-0`}
+      } flex-shrink-0`}
     >
 
       <div className="flex items-center h-16 px-2">
