@@ -12,8 +12,6 @@ export default function Header() {
   const navItems = [
     { id: "Dashboard",  path: "/dashboard",  icon: "⊞" },
     { id: "Products",   path: "/products",   icon: "◫" },
-    { id: "Purchases",  path: "/products",  icon: "◎" },
-    { id: "Customers",  path: "/products",  icon: "◉" },
     { id: "Analytics",  path: "/products",  icon: "▦" },
     { id: "Settings",   path: "/products",   icon: "✦" },
   ];
@@ -130,7 +128,7 @@ export default function Header() {
             <div className="absolute bottom-12 left-0 w-28 bg-gray-900 rounded-2xl shadow-2xl border border-gray-700/50 py-2 z-50">
               <div className="px-4 py-3 border-b border-gray-700/50">
                 <p className="text-sm font-medium text-gray-200">{userName}</p>
-                <p className="text-xs text-gray-400">john@example.com</p>
+                <p className="text-xs text-gray-400">john@xyz.com</p>
               </div>
               <Link
                 to="/profile"
