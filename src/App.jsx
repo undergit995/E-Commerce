@@ -1,6 +1,6 @@
 
 import { Route, Routes } from "react-router-dom";
-import Products from "./Component/Products/Products";
+import Products,{CartProvider} from "./Component/Products/Products";
 import Dashboard from "./Component/Dashboard/Dashboard";
 import ProtectedRoute from "./Component/ProtectedRoute/ProtectedRoute";
 import FormValid from "./Component/FormValid/FormValid";
@@ -10,6 +10,7 @@ import Cart from "./Component/Cart/Cart";
 
 function App() {
   return (
+    <CartProvider>
       <Routes>
         <Route path="/login" element={<FormValid />} />
         <Route path="/" element={<ProtectedRoute><Layout /></ProtectedRoute>}>
@@ -19,7 +20,7 @@ function App() {
           <Route path="dashboard"  element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
         </Route>
       </Routes>
-
+    </CartProvider>
   );
 }
 
